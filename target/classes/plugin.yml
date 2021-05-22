@@ -1,0 +1,11 @@
+name: TortureCommands
+main: com.yujibolt90.torturecommands.TortureCommands
+version: 0.1
+author: yujibolt90
+commands:
+   swarm:
+      description: Sends a swarm of bees to target player.
+      usage: /<command> [player]
+      permission: TortureCommands.swarm
+      permission-message: You don't have permission
+permissions:
